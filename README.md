@@ -7,6 +7,7 @@ It works by taking a WordPress export file (WXR format, from Tools > Export), th
 ## Requirements
 
 * Python 3
+* The `requests` library. Install with `pip install requests`.
 
 ## Usage
 
